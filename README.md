@@ -1,4 +1,5 @@
 # 3d_sc_model
++ phone app
 + calc (?????????)
 + incognito calc (better for mental health)
 + streak and rating system with points for physio
